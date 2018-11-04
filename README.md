@@ -1,6 +1,6 @@
 # Task-Manger
 
-Task Manager - aplikacja konsolowa napisana w C#
+Task Manager - aplikacja konsolowa napisana w C# (prosty menadżer zadań)
 
 Funkcjonalności:
 - Dodaj / usuń zadania
